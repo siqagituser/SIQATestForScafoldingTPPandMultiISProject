@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">siqaadmin</value>
-    <value name="createdDate">1716880429497</value>
-    <value name="lastModifiedDate">1716880429497</value>
+    <value name="lastModifiedBy">siqaadmin</value>
+    <value name="lastModifiedDate">1716880481767</value>
     <value name="displayName">testtpp</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -59,6 +58,13 @@
           <value name="groupName">SIQA_OriginTest_OnPremAssets;1.0</value>
           <null name="services"/>
         </record>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="description">Basics_1:ComplexFS</value>
+          <value name="serviceName">Basics_1:ComplexFS</value>
+          <value name="displayName">ComplexFS</value>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
       </record>
     </record>
   </record>
